@@ -1,7 +1,7 @@
 # 📊 Análisis de Ventas para Optimización de Stock
 
 ## 📌 Descripción
-Proyecto de análisis de datos enfocado en optimizar la gestión de inventarios mediante el análisis de ventas históricas.
+Proyecto de análisis de datos enfocado en optimizar la gestión de inventarios mediante el análisis de ventas en 2023.
 
 ## 🎯 Objetivo de negocio
 Reducir quiebres de stock y sobrestock mediante análisis basado en datos.
