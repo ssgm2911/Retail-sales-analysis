@@ -17,7 +17,10 @@ interactivo en Power BI.
 - `notebooks/`: Análisis exploratorio en Python
 - `dashboard/`: Dashboard Power BI
 
-- ## 📈 Principales insights
+## 📊 Dashboard Power BI
+![Dashboard Preview](dashboard/dashboard_overview.png)
+
+## 📈 Principales insights
 - Las categorías Electronics y Clothing concentran la mayor parte de las ventas.
 - El grupo etario 25–54 años es el principal generador de ingresos.
 - Existe una clara estacionalidad trimestral, con pico en Q4.
