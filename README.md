@@ -1,24 +1,30 @@
 # 📊 Análisis de Ventas para Optimización de Stock
 
-## 📌 Descripción
-Proyecto de análisis de datos enfocado en optimizar la gestión de inventarios mediante el análisis de ventas en 2023.
+## 🎯 Objetivo
+Analizar las ventas de un retail para identificar patrones por categoría, 
+género, grupo etario y trimestre, y presentar insights mediante un dashboard 
+interactivo en Power BI.
 
-## 🎯 Objetivo de negocio
-Reducir quiebres de stock y sobrestock mediante análisis basado en datos.
-
-## 🛠️ Herramientas
-- Python (Pandas, NumPy)
+## 🛠️ Herramientas 
+- Python (pandas, matplotlib)
 - SQL
 - Power BI
-- Excel
+- GitHub
 
-## 📈 Resultados
-- Identificación de productos críticos
-- Dashboard interactivo
-- Recomendaciones accionables
+## 📂 Estructura del proyecto
+- `data/`: Dataset limpio
+- `sql/`: Consultas SQL
+- `notebooks/`: Análisis exploratorio en Python
+- `dashboard/`: Dashboard Power BI
 
-## 📂 Estructura
-Ver carpetas organizadas por datos, SQL, notebooks y dashboard.
+- ## 📈 Principales insights
+- Las categorías Electronics y Clothing concentran la mayor parte de las ventas.
+- El grupo etario 25–54 años es el principal generador de ingresos.
+- Existe una clara estacionalidad trimestral, con pico en Q4.
+
+## 🚀 Próximos pasos
+- Análisis de ticket promedio por segmento
+- Comparación interanual
 
 ## 📎 Autor
 Silvio Guillén
