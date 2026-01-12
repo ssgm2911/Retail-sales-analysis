@@ -17,6 +17,17 @@ interactivo en Power BI.
 - `notebooks/`: Análisis exploratorio en Python
 - `dashboard/`: Dashboard Power BI
 
+## 🧪 Cómo ejecutar
+
+1. Clonar repositorio  
+   `git clone https://github.com/ssgm2911/Retail-sales-analysis.git`  
+2. Instalar dependencias  
+   `pip install -r requirements.txt`  
+3. Abrir el notebook  
+   `analisis_ventas.ipynb`  
+4. Explorar Power BI dashboard  
+   `powerbi/dashboard_ventas.pbix`
+
 ## 📊 Dashboard Power BI
 ![Dashboard Preview](dashboard/Dashboard_overview.png)
 
