@@ -18,7 +18,7 @@ interactivo en Power BI.
 - `dashboard/`: Dashboard Power BI
 
 ## 📊 Dashboard Power BI
-![Dashboard Preview](dashboard/dashboard_overview.png)
+![Dashboard Preview](dashboard/Dashboard_overview.png)
 
 ## 📈 Principales insights
 - Las categorías Electronics y Clothing concentran la mayor parte de las ventas.
